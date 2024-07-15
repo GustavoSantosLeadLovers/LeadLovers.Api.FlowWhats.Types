@@ -1,0 +1,12 @@
+{
+  "name": "@leadlovers/flow-whats-api-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./types/index.d.ts",
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "files": [
+    "types"
+  ]
+}
